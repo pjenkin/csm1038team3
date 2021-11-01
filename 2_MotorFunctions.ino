@@ -28,6 +28,7 @@
 //
 //   returns: none
 //---------------------------------------------------------------------------
+// tiny alteration (just this line)
 
 void setup() {                               // The setup routine beigns (running only once).
 
