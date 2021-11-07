@@ -28,7 +28,7 @@
 //
 //   returns: none
 //---------------------------------------------------------------------------
-// tiny alteration (just this line) altered again
+// tiny alteration (just this line) altered again and once more
 
 void setup() {                               // The setup routine beigns (running only once).
 
